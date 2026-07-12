@@ -29,7 +29,7 @@ header{ width: 100%; position: relative;}
 .site-nav > ul > li > ul > li:hover{ color: #ff6b40;}
 /* -------------------------------------- */
 
-.site-banner{ width: 100%;  height: 760px; background: url(images/back.png) no-repeat center / cover; border-radius: 0 0 120px 120px; padding: 50px 0 80px;}
+.site-banner{ width: 100%;  height: 760px; background: url(../images/back.png) no-repeat center / cover; border-radius: 0 0 120px 120px; padding: 50px 0 80px;}
 .banner-wrap{ width: 80%; margin: auto; position: relative; }
 .banner{ display: flex; gap: 30px; align-items: stretch;}
 .left{ position: relative; flex: 1.3;}
